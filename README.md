@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://v0-ai-powered-auto-report-ot.vercel.app/)**
+**https://v0-ai-powered-auto-report-ot.vercel.app/**
 
 ## Build your app
 
